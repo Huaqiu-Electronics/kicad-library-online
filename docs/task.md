@@ -5,7 +5,7 @@
 
 Build a high-performance backend service that:
 
-1. Pulls the latest official KiCad libraries from GitLab:
+1. Pulls the latest official KiCad libraries from GitLab referring to their referenced tag in the build-configs.json:
    - https://gitlab.com/kicad/libraries/kicad-symbols.git
    - https://gitlab.com/kicad/libraries/kicad-footprints.git
    - https://gitlab.com/kicad/libraries/kicad-packages3D.git
@@ -409,3 +409,9 @@ function loadSymbol(entry) {
 * KiCad libraries are loosely coupled
 * robustness > strict correctness
 
+
+## IMPORTANT
+
+You can always dig into the actual file content for symbol, footprint and 3d to see what's going on.
+You can always dig into the kicad source code as well.
+ALl the repositories have been cloned and synced locally.
