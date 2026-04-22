@@ -11,6 +11,6 @@
     "resolveJsonModule": true,
     "types": ["node"]
   },
-  "include": ["src/**/*", "test-split.ts", "build-index.ts"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
