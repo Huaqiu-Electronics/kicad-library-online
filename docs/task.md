@@ -415,3 +415,4 @@ function loadSymbol(entry) {
 You can always dig into the actual file content for symbol, footprint and 3d to see what's going on.
 You can always dig into the kicad source code as well.
 ALl the repositories have been cloned and synced locally.
+For all the files especially the symbol , KiCad has refactored the file to single file only containing one symbol , you'd confirm the fact by looking at the file content.
