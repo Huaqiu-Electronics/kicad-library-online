@@ -1,0 +1,12 @@
+node_modules
+dist
+data
+*.log
+test-index.ts
+test-index-json.ts
+test-symbol-indexer.ts
+simple-server.ts
+test-server.ts
+test-server.js
+index-writer.ts
+build-and-write.js
