@@ -10,3 +10,4 @@ test-server.ts
 test-server.js
 index-writer.ts
 build-and-write.js
+*.js
