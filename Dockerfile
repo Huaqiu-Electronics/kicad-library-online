@@ -17,6 +17,9 @@ COPY . .
 # Build TypeScript
 RUN npm run build
 
+# Build index (this will clone repos and build index)
+RUN npm run build-index
+
 # Expose port
 EXPOSE 3000
 
