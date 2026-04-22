@@ -9,19 +9,19 @@
     },
     "sources": {
         "kicad": {
-            "ref": "tag/10.0.0"
+            "ref": "10.0.0"
         },
         "symbols": {
-            "ref": "tag/10.0.0"
+            "ref": "10.0.0"
         },
         "footprints": {
-            "ref": "tag/10.0.0"
+            "ref": "10.0.0"
         },
         "3dmodels": {
-            "ref": "tag/10.0.0"
+            "ref": "10.0.0"
         },
         "templates": {
-            "ref": "tag/10.0.0"
+            "ref": "10.0.0"
         }
     }, 
     "vcpkg": {
